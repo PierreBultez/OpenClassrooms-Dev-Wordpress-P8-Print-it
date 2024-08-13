@@ -25,6 +25,9 @@ Intégration du slider comme demandé, aucune modification du CSS fourni.
 # Comment suis-je allé plus loin ?
 
 J'ai modifié le style de la souris en pointer au survol des flèches de déflimenet et des dots <strong>sans toucher au CSS, uniquement en JS.</strong>
+
 J'ai ajouté un effet d'aparition et de transition type "fade" <strong>sans toucher au CSS, uniquement en JS.</strong>
+
 J'ai ajouté un autoplay à 5 secondes.
+
 J'ai ajouté une pause à l'autoplay au survol du slider avec la souris.
